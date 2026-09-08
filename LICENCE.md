@@ -6,7 +6,7 @@ Insurgency Sandstorm external hack with ESP, aimbot, no recoil, no spread, and r
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -70,7 +70,7 @@ Based on popular mods like **Sandstorm Cheat** and **Insurgency Hack**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch Insurgency Sandstorm.
 4. Run the hack **as Administrator**.
